@@ -45,6 +45,18 @@ Screws: 8 total (M3)<br>
 Standoffs: 4<br>
 Microcontroller: 1 Pico<br>
 <br>
-
+Schematic:
+<img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" />
+<br><br>
+PCB:<br>
+<img width="636" height="273" alt="Screenshot 2026-03-23 at 11 32 25 AM" src="https://github.com/user-attachments/assets/dab43117-9aab-4ec7-9141-4b474568871d" />
+<img width="1192" height="768" alt="Screenshot 2026-03-23 at 11 48 44 AM" src="https://github.com/user-attachments/assets/ae76973b-61a2-4de4-bc27-72609c8650dd" />
+<br><br>
+Wireless Keyboard Top Case CAD:<br>
+<img width="1418" height="719" alt="Screenshot 2026-03-23 at 11 29 55 AM" src="https://github.com/user-attachments/assets/e84c119a-f568-4537-add7-9bb29ee14c60" />
+<br><br>
+Wireless Keyboard Bottom Case CAD:<br>
+<img width="1352" height="729" alt="Screenshot 2026-03-23 at 11 30 11 AM" src="https://github.com/user-attachments/assets/211d4a38-1f22-48aa-8656-63d96936018b" />
+<br><br>
 
 

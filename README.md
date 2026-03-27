@@ -34,7 +34,8 @@ Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-<br>
+FINAL COST: $204.89
+<br><br>
 Schematic:
 <img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" />
 <br><br>

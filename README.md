@@ -3,7 +3,7 @@ This is my wireless keyboard for everyday personal use.<br>
 Bill of Materials:<br>
 <br>
 Switches & Keycaps<br>
-78 × Cherry MX-style switches: $53.54<br>  
+78 × HMX Frog Tactile Cherry MX-style switches: $53.54<br>  
 1 × Keycap set: $27.04<br> 
 Must include:<br>
 1 × 6.25u spacebar<br>

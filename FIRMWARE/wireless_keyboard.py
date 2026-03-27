@@ -6,7 +6,7 @@ from kmk.scanners import DiodeOrientation
 keyboard = KMKKeyboard()
 
 # =========================
-# MATRIX CONFIG (YOUR EXACT PINS)
+# MATRIX CONFIGURATION
 # =========================
 
 keyboard.col_pins = (

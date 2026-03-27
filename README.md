@@ -50,5 +50,5 @@ Wireless Keyboard Bottom Case CAD:<br>
 <img width="1263" height="724" alt="Screenshot 2026-03-26 at 7 26 06 PM" src="https://github.com/user-attachments/assets/c1f31bc9-be0a-485b-a905-529aacb1955f" />
 <br><br>
 Final Wireless Keyboard Build:<br>
-<img width="1206" height="734" alt="Screenshot 2026-03-26 at 7 25 50 PM" src="https://github.com/user-attachments/assets/f06943a5-de07-4a5a-ad1c-1c0e2cfe71cd" />
+<img width="1145" height="719" alt="Screenshot 2026-03-26 at 9 54 52 PM" src="https://github.com/user-attachments/assets/ebb6a084-1b7c-4509-b7d0-efb6fe4d5c99" />
 <br><br>

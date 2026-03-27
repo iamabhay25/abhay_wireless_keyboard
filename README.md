@@ -14,7 +14,7 @@ Stabilizers (PCB Mount – Cherry Style): $15.34<br>
 2 × 2.25u stabilizers<br>
 <br>
 Electronics<br>
-1 × Custom PCB (78-key)<br>
+1 × Custom PCB (78-key) $50<br>
 1 × Raspberry Pi Pico: $13.88<br>
 78 × Diodes (1N4148): $11.66<br>
 1 × USB cable (USB-A → USB-C)<br>
@@ -34,7 +34,7 @@ Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-FINAL COST: $204.89
+FINAL COST: $254.89
 <br><br>
 Schematic:
 <img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" />

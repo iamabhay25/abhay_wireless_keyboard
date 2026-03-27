@@ -23,8 +23,7 @@ Case Assembly<br>
 8 × M3 screws (12 mm, 10mm length): $7.89<br>
 <br>
 Case Parts<br>
-Top case <br>
-Bottom case<br>
+Top case, bottom case: $54.99<br>
 <br>
 <br>
 Sound / Feel <br>

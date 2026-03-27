@@ -53,10 +53,11 @@ PCB:<br>
 <img width="1192" height="768" alt="Screenshot 2026-03-23 at 11 48 44 AM" src="https://github.com/user-attachments/assets/ae76973b-61a2-4de4-bc27-72609c8650dd" />
 <br><br>
 Wireless Keyboard Top Case CAD:<br>
-<img width="1330" height="719" alt="Screenshot 2026-03-23 at 3 50 57 PM" src="https://github.com/user-attachments/assets/deed089f-662c-43e0-8d7b-1ba070100da6" />
+<img width="1282" height="727" alt="Screenshot 2026-03-26 at 7 26 15 PM" src="https://github.com/user-attachments/assets/410f967c-46b8-49d5-96fb-85c917567df5" />
 <br><br>
 Wireless Keyboard Bottom Case CAD:<br>
-<img width="1265" height="724" alt="Screenshot 2026-03-23 at 3 50 04 PM" src="https://github.com/user-attachments/assets/195f130c-96f7-4a10-aa60-ad115af44524" />
+<img width="1263" height="724" alt="Screenshot 2026-03-26 at 7 26 06 PM" src="https://github.com/user-attachments/assets/c1f31bc9-be0a-485b-a905-529aacb1955f" />
 <br><br>
-
-
+Final Wireless Keyboard Build:<br>
+<img width="1206" height="734" alt="Screenshot 2026-03-26 at 7 25 50 PM" src="https://github.com/user-attachments/assets/f06943a5-de07-4a5a-ad1c-1c0e2cfe71cd" />
+<br><br>

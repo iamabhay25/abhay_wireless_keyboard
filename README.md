@@ -38,18 +38,18 @@ AliExpress Shipping for parts: 6.41
 FINAL COST: $165.26
 <br><br>
 Schematic:
-<img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" />
+<img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" /><br
 <br><br>
 PCB:<br>
 <img width="1155" height="660" alt="Screenshot 2026-03-26 at 9 45 59 PM" src="https://github.com/user-attachments/assets/204d7816-2438-479f-8d75-37225c821c8f" /><br>
 <img width="989" height="576" alt="Screenshot 2026-03-26 at 9 46 20 PM" src="https://github.com/user-attachments/assets/177f659a-e7dc-41ed-8bae-c680bd098010" /><br>
 <br><br>
 Wireless Keyboard Top Case CAD:<br>
-<img width="1181" height="729" alt="Screenshot 2026-03-26 at 9 49 32 PM" src="https://github.com/user-attachments/assets/cee53822-2cfb-4e56-bbc1-c8c4404f432e" /><br>
+<img width="1332" height="744" alt="Screenshot 2026-03-30 at 6 56 47 PM" src="https://github.com/user-attachments/assets/91aa50af-b305-4201-a4f9-430f440c1973" /><br>
 <br><br>
 Wireless Keyboard Bottom Case CAD:<br>
-<img width="1263" height="724" alt="Screenshot 2026-03-26 at 7 26 06 PM" src="https://github.com/user-attachments/assets/c1f31bc9-be0a-485b-a905-529aacb1955f" />
+<img width="1281" height="742" alt="Screenshot 2026-03-30 at 6 56 39 PM" src="https://github.com/user-attachments/assets/c3f0a7d3-a66d-4a02-aa8c-af6c570831aa" /><br>
 <br><br>
 Final Wireless Keyboard Build:<br>
-<img width="1145" height="719" alt="Screenshot 2026-03-26 at 9 54 52 PM" src="https://github.com/user-attachments/assets/ebb6a084-1b7c-4509-b7d0-efb6fe4d5c99" />
+<img width="1199" height="748" alt="Screenshot 2026-03-30 at 6 59 14 PM" src="https://github.com/user-attachments/assets/8e60c49f-c937-45ef-b5fb-596314902cb0" /><br>
 <br><br>

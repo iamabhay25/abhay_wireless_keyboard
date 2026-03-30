@@ -4,19 +4,19 @@ Bill of Materials:<br>
 <br>
 Switches & Keycaps<br>
 78 × HMX Frog Tactile Cherry MX-style switches: $53.54<br>  
-1 × Keycap set: $27.04<br> 
+1 × Keycap set: $13.85<br> 
 Must include:<br>
 1 × 6.25u spacebar<br>
 2 × 2.25u keys<br>
 <br>
-Stabilizers (PCB Mount – Cherry Style): $15.34<br>
+Stabilizers (PCB Mount – Cherry Style): $10.40<br>
 1 × 6.25u stabilizer (spacebar)<br>
 2 × 2.25u stabilizers<br>
 <br>
 Electronics<br>
-1 × Custom PCB (78-key) $50<br>
-1 × Raspberry Pi Pico: $13.88<br>
-78 × Diodes (1N4148): $11.66<br>
+1 × Custom PCB (78-key) $43.98<br>
+1 × Raspberry Pi Pico: $13.29<br>
+78 × Diodes (1N4148): $1.89<br>
 1 × USB cable (USB-A → USB-C)<br>
 <br>
 Case Assembly<br>
@@ -27,14 +27,14 @@ Top case, bottom case: (PRINTNG LEGION) (SHIPPING: $5)<br>
 <br>
 <br>
 Sound / Feel <br>
-Case foam (bottom foam): 20.55 <br>
+Case foam (bottom foam): 9.01 <br>
 <br><br>
 Final Count Summary<br>
 Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-FINAL COST: $204.90
+FINAL COST: $158.95
 <br><br>
 Schematic:
 <img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" />

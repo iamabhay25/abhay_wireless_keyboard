@@ -4,7 +4,7 @@ This is my wireless keyboard for everyday personal use.<br>
 Bill of Materials:<br>
 <br>
 Switches & Keycaps<br>
-78 × HMX Frog Tactile Cherry MX-style switches: $53.54<br>  
+78 × HMX Frog Tactile Cherry MX-style switches: $27.74<br>  
 1 × Keycap set: $13.85<br> 
 Must include:<br>
 1 × 6.25u spacebar<br>
@@ -35,7 +35,7 @@ Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
 AliExpress Shipping for parts: $6.41<br>
-FINAL COST: $165.26<br>
+FINAL COST: $140.46<br>
 <br><br>
 Schematic:
 <img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" /><br>

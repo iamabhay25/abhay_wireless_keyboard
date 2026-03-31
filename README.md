@@ -37,7 +37,7 @@ AliExpress Shipping for parts: $6.41<br>
 FINAL COST: $165.26<br>
 <br><br>
 Schematic:
-<img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" /><br
+<img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" /><br>
 <br><br>
 PCB:<br>
 <img width="1155" height="660" alt="Screenshot 2026-03-26 at 9 45 59 PM" src="https://github.com/user-attachments/assets/204d7816-2438-479f-8d75-37225c821c8f" /><br>

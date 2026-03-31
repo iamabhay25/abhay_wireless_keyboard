@@ -34,7 +34,7 @@ Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-AliExpress Shipping for parts: 6.41
+AliExpress Shipping for parts: $6.41<br>
 FINAL COST: $165.26
 <br><br>
 Schematic:

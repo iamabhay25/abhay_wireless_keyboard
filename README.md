@@ -25,7 +25,6 @@ Case Assembly<br>
 Case Parts<br>
 Top case, bottom case: (PRINTNG LEGION) (SHIPPING: $5)<br>
 <br>
-<br>
 Sound / Feel <br>
 Case foam (bottom foam): 9.01 <br>
 <br><br>
@@ -35,7 +34,7 @@ Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
 AliExpress Shipping for parts: $6.41<br>
-FINAL COST: $165.26
+FINAL COST: $165.26<br>
 <br><br>
 Schematic:
 <img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" /><br

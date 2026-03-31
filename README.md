@@ -4,7 +4,7 @@ This is my wireless keyboard for everyday personal use.<br>
 Bill of Materials:<br>
 <br>
 Switches & Keycaps<br>
-78 × HMX Frog Tactile Cherry MX-style switches: $27.74<br>  
+78 × GATERON Milky Yellow Cherry MX-style switches: $27.74<br>  
 1 × Keycap set: $13.85<br> 
 Must include:<br>
 1 × 6.25u spacebar<br>

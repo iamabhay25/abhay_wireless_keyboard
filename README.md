@@ -37,7 +37,7 @@ Keycap Set<br><br>
 
 <br>
 Case Assembly:<br>
-8 × M3 screws (12 mm, 10mm length): $2.98<br>
+8 × M3 screws (8mm length): $2.98<br>
 <br>
 Case Parts<br>
 Top case, bottom case: (PRINTING LEGION) (SHIPPING: $5)<br>

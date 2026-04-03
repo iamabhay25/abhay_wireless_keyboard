@@ -17,13 +17,12 @@ Must include:<br>
 1 × 6.25u spacebar<br>
 2 × 2.25u keys<br>
 <br>
-Stabilizers (PCB Mount – Cherry Style): $10.40<br>
-1 × 6.25u stabilizer (spacebar)<br>
-2 × 2.25u stabilizers<br>
 <br>
 Electronics:<br>
-1 × Custom PCB (78-key) $43.98<br>
-+<br>
+1 × Custom PCB (78-key): $43.98<br>
+
+_____________________________________
+
 1 × Raspberry Pi Pico<br>
 +<br>
 78 × Diodes (1N4148)<br>
@@ -34,7 +33,7 @@ PCB Mount Stabilizers<br>
 +<br>
 Keycap Set<br><br>
 
-= $15.94 / with free shipping
+= $25.78 / with free shipping
 
 <br>
 Case Assembly:<br>
@@ -48,7 +47,7 @@ Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-FINAL COST: $100.55<br>
+FINAL COST: 110.39$<br>
 <br>
 
 ____________________________________

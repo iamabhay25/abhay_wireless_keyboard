@@ -4,8 +4,7 @@ This is my wireless keyboard for everyday personal use.<br>
 Bill of Materials:<br>
 <br>
 Switches & Keycaps<br>
-78 × GATERON Milky Yellow Cherry MX-style switches: $27.74<br>  
-1 × Keycap set: $13.85<br> 
+78 × GATERON Milky Yellow Cherry MX-style switches: $27.74<br>   
 Must include:<br>
 1 × 6.25u spacebar<br>
 2 × 2.25u keys<br>
@@ -16,9 +15,20 @@ Stabilizers (PCB Mount – Cherry Style): $10.40<br>
 <br>
 Electronics<br>
 1 × Custom PCB (78-key) $43.98<br>
-1 × Raspberry Pi Pico: $13.29<br>
-78 × Diodes (1N4148): $1.89<br>
-1 × USB cable (USB-A → USB-C)<br>
+_______________________________________
+1 × Raspberry Pi Pico<br>
++<br>
+78 × Diodes (1N4148)<br>
++<br>
+Raspberry Pi Pico Header Pins<br>
++<br>
+PCB Mount Stabilizers<br>
++
+Keycap Set<br>
+_______________________________________
+= $15.94 / with free shipping
+
+
 <br>
 Case Assembly<br>
 8 × M3 screws (12 mm, 10mm length): $7.89<br>
@@ -26,16 +36,12 @@ Case Assembly<br>
 Case Parts<br>
 Top case, bottom case: (PRINTNG LEGION) (SHIPPING: $5)<br>
 <br>
-Sound / Feel <br>
-Case foam (bottom foam): 9.01 <br>
-<br><br>
 Final Count Summary<br>
 Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-AliExpress Shipping for parts: $6.41<br>
-FINAL COST: $140.46<br>
+FINAL COST: $100.55<br>
 <br><br>
 Schematic:
 <img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" /><br>

@@ -37,7 +37,7 @@ Keycap Set<br><br>
 
 <br>
 Case Assembly:<br>
-8 × M3 screws (12 mm, 10mm length): $7.89<br>
+8 × M3 screws (12 mm, 10mm length): $2.98<br>
 <br>
 Case Parts<br>
 Top case, bottom case: (PRINTNG LEGION) (SHIPPING: $5)<br>
@@ -47,7 +47,7 @@ Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-FINAL COST: 110.39$<br>
+FINAL COST: 104.48$<br>
 <br>
 
 ____________________________________

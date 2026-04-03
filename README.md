@@ -40,7 +40,7 @@ Case Assembly:<br>
 8 × M3 screws (12 mm, 10mm length): $2.98<br>
 <br>
 Case Parts<br>
-Top case, bottom case: (PRINTNG LEGION) (SHIPPING: $5)<br>
+Top case, bottom case: (PRINTING LEGION) (SHIPPING: $5)<br>
 <br>
 Final Count Summary<br>
 Switches: 78<br>

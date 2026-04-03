@@ -47,7 +47,7 @@ Switches: 78<br>
 Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
-FINAL COST: 104.48$<br>
+FINAL COST: $104.48$<br>
 <br>
 
 ____________________________________

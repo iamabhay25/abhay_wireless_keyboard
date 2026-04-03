@@ -1,9 +1,17 @@
 # Abhay's Wireless Keyboard
 # VELUNE
-This is my wireless keyboard for everyday personal use.<br>
+This is my wireless keyboard for everyday personal use.<br><br>
+I made this because I didn't have a keyboard and instead of going to the store and buying one, I thought, "why not build one myself?".<br><br>
+So I set out on my pursuit to build a custom keyboard which, as I learned, has a lot of things to learn to get it right.<br><br>
+However, in the end, I gained a lot of knowledge on the seemingly simple art of designing a keyboard and got a chance to design something that I was proud of.<br><br>
+Using my keyboard is like any other keyboard, so you can just start by typing!<br><br>
+Overall, I really enjoyed doing this.<br><br>
+Credits for Hackclub / Blueprint for sponsoring this.
+<br>
+______________________________________________________
 Bill of Materials:<br>
 <br>
-Switches & Keycaps<br>
+Switches & Keycaps:<br>
 78 × GATERON Milky Yellow Cherry MX-style switches: $27.74<br>   
 Must include:<br>
 1 × 6.25u spacebar<br>
@@ -13,9 +21,9 @@ Stabilizers (PCB Mount – Cherry Style): $10.40<br>
 1 × 6.25u stabilizer (spacebar)<br>
 2 × 2.25u stabilizers<br>
 <br>
-Electronics<br>
+Electronics:<br>
 1 × Custom PCB (78-key) $43.98<br>
-_______________________________________
++<br>
 1 × Raspberry Pi Pico<br>
 +<br>
 78 × Diodes (1N4148)<br>
@@ -23,14 +31,13 @@ _______________________________________
 Raspberry Pi Pico Header Pins<br>
 +<br>
 PCB Mount Stabilizers<br>
-+
-Keycap Set<br>
-_______________________________________
++<br>
+Keycap Set<br><br>
+
 = $15.94 / with free shipping
 
-
 <br>
-Case Assembly<br>
+Case Assembly:<br>
 8 × M3 screws (12 mm, 10mm length): $7.89<br>
 <br>
 Case Parts<br>
@@ -42,7 +49,10 @@ Diodes: 78<br>
 Screws: 8 total (M3)<br>
 Microcontroller: 1 Pico<br>
 FINAL COST: $100.55<br>
-<br><br>
+<br>
+
+____________________________________
+
 Schematic:
 <img width="1458" height="822" alt="Screenshot 2026-03-23 at 11 47 16 AM" src="https://github.com/user-attachments/assets/65067247-a008-40d0-9c02-feb1d377d018" /><br>
 <br><br>

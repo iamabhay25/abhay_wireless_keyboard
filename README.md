@@ -11,11 +11,9 @@ Credits for Hackclub / Blueprint for sponsoring this.
 ______________________________________________________
 Bill of Materials:<br>
 <br>
-Switches & Keycaps:<br>
+Switches:<br>
 78 × GATERON Milky Yellow Cherry MX-style switches: $27.74<br>   
-Must include:<br>
-1 × 6.25u spacebar<br>
-2 × 2.25u keys<br>
+
 <br>
 <br>
 Electronics:<br>
